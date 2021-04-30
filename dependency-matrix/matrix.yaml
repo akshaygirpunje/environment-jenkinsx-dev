@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: akshaygirpunje
+  repo: express-hello
+  url: https://github.com/akshaygirpunje/express-hello.git
+  version: ""
+  versionURL: ""
